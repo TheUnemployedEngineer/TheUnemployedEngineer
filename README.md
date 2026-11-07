@@ -41,14 +41,9 @@ Years of education. Zero years of getting paid.
   <a href="mailto:sourav.mte@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/5our4v">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/sour4v_v/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-
 
 </div>
+
+
+
+
